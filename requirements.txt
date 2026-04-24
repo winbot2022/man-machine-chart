@@ -2,4 +2,3 @@ streamlit
 pandas<3
 matplotlib
 openpyxl
-openai
